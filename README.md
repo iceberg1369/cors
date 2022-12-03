@@ -1,7 +1,7 @@
 # CORS
 Continuously Operating Reference Stations (CORS), provide network RTK differential service.
 
-#简介
+# 简介
 CORS主要功能包括
 1. 多频多系统网络RTK解算：基线解算、模糊度闭合检验等
 2. 虚拟参考站技术
@@ -12,7 +12,7 @@ CORS主要功能包括
 7. 基准站/虚拟站完好性监测
 8. 支持虚拟参考站数据播发能力和网络RTK差分定位服务
 
-#参考
+# 参考
 [1] http://www.rtklib.com 
 
 [2] http://www.rtcm.org
